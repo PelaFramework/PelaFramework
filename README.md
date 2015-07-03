@@ -1,5 +1,5 @@
 # v1
-Simple MVC PHP Framework
+Un framework de php 100% argentino.
 
 La primer versión de Pela Framework, un framework simple y fácil de usar en PHP. Soporta el patrón MVC (modelo-vista-controlador) usando nombres por convención.
 
