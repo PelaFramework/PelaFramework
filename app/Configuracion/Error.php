@@ -27,7 +27,7 @@ class Error extends Controlador
         if (is_array($error)) {
             foreach ($error as $error)
             {
-                $fila.= "<div class='$class'>$error</div>";
+                $fila= "<div class='$class'>$error</div>";
             }
             return $fila;
         } else {
