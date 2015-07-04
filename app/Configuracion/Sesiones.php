@@ -1,5 +1,4 @@
-<?php
-namespace Configuracion;
+<?php namespace Configuracion;
 
 class Sesiones
 {

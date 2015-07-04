@@ -1,0 +1,21 @@
+{
+    "name": "PelaFramework/PelaFramework",
+    "description": "Framework para PHP",
+    "homepage": "https://github.com/PelaFramework/PelaFramework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juan Pablo Blanco",
+            "email": "juanpablo@pelaframework.com",
+            "homepage": "http://www.pelaframework.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+  "autoload": {
+    "psr-4": {"": "app/"}
+  },
+    "minimum-stability": "dev"
+}

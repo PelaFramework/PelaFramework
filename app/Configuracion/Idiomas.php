@@ -1,5 +1,4 @@
 <?php namespace Configuracion;
-use Configuracion\Error;
 
 class Idiomas
 {

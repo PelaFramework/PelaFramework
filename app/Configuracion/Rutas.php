@@ -65,7 +65,7 @@ class Rutas
         $args = !empty($parts) ? $parts : array();
 
         // Check for file
-        if (!file_exists("App/Controladores/$controller.php")) {
+        if (!file_exists("app/Controladores/$controller.php")) {
             return false;
         }
 
