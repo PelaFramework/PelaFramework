@@ -15,7 +15,7 @@ class Configuracion
         define('DB_HOST', 'localhost');
         define('DB_NAME', 'framework');
         define('DB_USER', 'root');
-        define('DB_PASS', 'wi140679');
+        define('DB_PASS', '');
         define('PREFIX', 'BCO_');
 
         /**
