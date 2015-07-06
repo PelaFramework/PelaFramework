@@ -1,1 +1,0 @@
-<h1>Agregar nuevo consorcio</h1>

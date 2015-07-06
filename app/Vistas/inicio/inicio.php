@@ -10,6 +10,3 @@
     <?php echo Idiomas::mostrar('abrir_subpagina', 'Inicio'); ?>
 </a>
 
-<a class="btn btn-md btn-success" href="<?php echo DIR;?>Login">
-    <?php echo Idiomas::mostrar('login', 'Inicio'); ?>
-</a>

@@ -5,7 +5,7 @@ class Configuracion
     public function __construct()
     {
         ob_start();
-        define('DIR', 'http://localhost/Framework/');
+        define('DIR', 'http://localhost/');
         define('CONTROLADOR_INICIAL', 'Inicio');
         define('METODO_INICIAL', 'index');
         define('PLANTILLA', 'default');
@@ -30,8 +30,8 @@ class Configuracion
          * Luego pueden utilizar $data['titulo'] = 'Nombre pagina';
          * y el titulo se visualizará: "Nombre pagina - TITULO_WEB
          */
-        define('TITULO_WEB', 'Sistemas BCO');
-        define('EMAIL_DEFAULT', 'info@sistemasbco.com.ar');
+        define('TITULO_WEB', 'Pela Framework');
+        define('EMAIL_DEFAULT', 'mail@mail.com');
 
         Sesiones::iniciar();
     }
